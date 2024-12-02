@@ -335,11 +335,13 @@ body {
     }
 
     #book-appointment-wizard .footer-powered-by,
+    #book-appointment-wizard .footer-imprint,
     #book-appointment-wizard .footer-options {
         width: 50%;
     }
 
-    #book-appointment-wizard .footer-powered-by {
+    #book-appointment-wizard .footer-powered-by, 
+    #book-appointment-wizard .footer-imprint {
         text-align: left;
         padding: 5px 5px 5px 0;
     }

@@ -12,6 +12,9 @@
             Powered By
             <a href="https://easyappointments.org" target="_blank">Easy!Appointments</a>
         </span>
+        <span class="footer-imprint small">
+            <a href="#" data-bs-toggle="modal" data-bs-target="#imprint-modal">Impressum</a>
+        </span>
 
         <span class="footer-options">
             <span id="select-language" class="badge bg-secondary">
