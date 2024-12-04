@@ -60,6 +60,8 @@
     ]); ?>
 <?php endif; ?>
 
+<?php component('imprint_modal'); ?>
+
 <?php if (vars('display_privacy_policy') === '1'): ?>
     <?php component('privacy_policy_modal', ['privacy_policy_content' => vars('privacy_policy_content')]); ?>
 <?php endif; ?>
