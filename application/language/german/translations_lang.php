@@ -483,4 +483,19 @@ $lang['fields'] = 'Fields';
 $lang['invalid_credentials_provided'] = 'Invalid credentials provided, please try again.';
 $lang['calendar_url'] = 'Calendar URL';
 $lang['please_select'] = 'Bitte Wählen';
+$lang['imprint_title'] = 'Impressum';
+$lang['imprint_content'] = '<p><b>Volkshochschule Frankfurt am Main</b><br />
+                    Sonnemannstraße 13, 60314 Frankfurt am Main<br />
+                    Telefon: +49 (0)69 212-71501<br />
+                    Fax: +49 (0)69 212-71500<br />
+                    vhs@frankfurt.de<br />
+                    <br />
+                    <b>Betriebsleitung</b><br />
+                    Danijel Dejanovic, Direktor<br />
+                    <br />
+                    Die Volkshochschule Frankfurt am Main ist ein Eigenbetrieb der Stadt Frankfurt am Main. Handelsregister beim Amtsgericht Frankfurt am Main: HR A 30211<br />
+                    <br />
+                    <b>Vorsitzende der Betriebskommission</b><br /> 
+                    Stadträtin Sylvia Weber<br />
+                    Dezernat für Bildung, Immobilien und Neues Bauen</p>';
 // End

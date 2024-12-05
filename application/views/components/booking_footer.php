@@ -13,7 +13,9 @@
             <a href="https://easyappointments.org" target="_blank">Easy!Appointments</a>
         </span>
         <span class="footer-imprint small">
-            <a href="#" data-bs-toggle="modal" data-bs-target="#imprint-modal">Impressum</a>
+            <a href="#" data-bs-toggle="modal" data-bs-target="#imprint-modal">
+                <?= lang('imprint_title') ?>
+            </a>
         </span>
 
         <span class="footer-options">
