@@ -336,14 +336,24 @@ body {
 
     #book-appointment-wizard .footer-powered-by,
     #book-appointment-wizard .footer-imprint,
+    #book-appointment-wizard .footer-privacy,
     #book-appointment-wizard .footer-options {
-        width: 50%;
+        width: 25%;
     }
 
     #book-appointment-wizard .footer-powered-by, 
+    #book-appointment-wizard .footer-privacy,
     #book-appointment-wizard .footer-imprint {
-        text-align: left;
         padding: 5px 5px 5px 0;
+    }
+
+    #book-appointment-wizard .footer-powered-by {
+        text-align: left;
+    }
+
+    #book-appointment-wizard .footer-privacy,
+    #book-appointment-wizard .footer-imprint {
+        text-align: center;
     }
 
     #book-appointment-wizard .footer-options {

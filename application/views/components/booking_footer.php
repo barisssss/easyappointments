@@ -17,6 +17,11 @@
                 <?= lang('imprint_title') ?>
             </a>
         </span>
+        <span class="footer-privacy small">
+            <a href="#" data-bs-toggle="modal" data-bs-target="#privacy-policy-modal">
+                <?= lang('privacy_policy') ?>
+            </a>
+        </span>
 
         <span class="footer-options">
             <span id="select-language" class="badge bg-secondary">

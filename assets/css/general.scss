@@ -505,3 +505,25 @@ body .clearfix {
         visibility: hidden;
     }
 }
+
+.modal-header {
+    color: white;
+}
+
+.display-selected-service, .display-selected-provider {
+    color: unset !important;
+    filter: unset !important;
+}
+
+#book-appointment-wizard .book-step {
+    background: white !important;
+    filter: unset !important;
+}
+
+#book-appointment-wizard .book-step strong {
+  filter: unset !important;
+}
+
+.cc-link {
+    display: none;
+}
